@@ -10,3 +10,4 @@ write-ups live privately on CERN GitLab.
 |---|---|---|
 | `qt-isolation/` | Run-3 calorimetric isolation pile-up correction, ζ(η) | `femarta/qt-isolation` (container) · `femarta/IsolationAnalysis` (code) · `femarta/parcorrection`, `femarta/TagAndProbe` (forks) |
 | `qt-showershapes/` | Run-3 photon shower-shape cell-based reweighting (Layer 1 + Layer 2) | `femarta/qt-showershapes` (container) · `femarta/ShowerShapesCellBasedReweighting` (code) · `femarta/cellntuplemaker` (ntuples) |
+| `oo-vs-nsbi/` | Run 3 HWW CP analysis: the VBF H→WW CP-odd EFT samples and their validation | `hwwcpanalysis/SampleGeneration` (job options) |
